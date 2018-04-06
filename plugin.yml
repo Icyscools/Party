@@ -1,0 +1,10 @@
+name: Party
+main: com.icys.party.Party
+author: Icyscools
+version: 0.12
+description: Party system
+
+commands:
+    party:
+        usage: /<command>
+        description: party cmd
